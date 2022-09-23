@@ -1,0 +1,18 @@
+.review-item {
+    font-family: sans-serif;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    margin-right: 10px;
+    padding-left: 25px;
+}
+
+.review-item h4 {
+    color: blue;
+}
+
+
+.price {
+    color: #B12704;
+}
